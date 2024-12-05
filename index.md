@@ -9,7 +9,7 @@ I am a computer science student. I am studying computer science at CSUF. I plan 
 
 * Lab 7, part 1
   
-  This lab was a great exercise to learn how to use conditional statements to make decisions based    on multiple conditions. I learned how to write compound Boolean expressions using operators such as "&& and ||".
+  This lab was a great exercise to learn how to use conditional statements to make decisions based on multiple conditions. I learned how to write compound Boolean expressions using operators which was really fun to learn and use.
   
 * Lab 6, part 1
   
